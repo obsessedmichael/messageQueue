@@ -1,0 +1,12 @@
+http://www.rabbitmq.com/install-windows-manual.html windows下安装rabbitmq手册
+
+http://www.erlang.org/downloads  rabbitmq依赖的安装包下载
+
+
+http://www.cnblogs.com/zhengbin/p/5861737.html  hello world例子
+
+
+http://blog.csdn.net/column/details/rabbitmq.html  RabbitMQ从入门到精通
+
+http://blog.csdn.net/anzhsoft/article/details/19771671   
+RabbitMQ消息队列的小伙伴: ProtoBuf（Google Protocol Buffer）
